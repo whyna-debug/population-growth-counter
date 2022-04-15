@@ -1,5 +1,6 @@
+
+##Population growth counter
 <section id="readme.md">
-<h2>Population growth counter</h2>
 <center>
   <br />
  <a href="https://github.com/Wahyunaa/population-growth-counter"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
