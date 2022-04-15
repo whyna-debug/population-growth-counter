@@ -1,2 +1,2 @@
-### population-growth-counter
+## Population growth counter
 Software for calculating population growth.
