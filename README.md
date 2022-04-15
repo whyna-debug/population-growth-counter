@@ -1,4 +1,3 @@
-
 ##Population growth counter
 <section id="readme.md">
 <center>
