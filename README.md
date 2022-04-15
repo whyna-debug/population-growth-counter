@@ -6,4 +6,4 @@ Software for calculating population growth.
  <br />
  </center>
  <section id="About">
-### About
+## Population growth counter
