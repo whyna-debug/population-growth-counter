@@ -1,8 +1,10 @@
 ## Population growth counter
+<section id="#readme.md">
 <center>
   <br />
- <a href="#About"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
+ <a href="#readme.md"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
  </center>
+ </section>
  <section id="About">
 <h3>About</h3>
 <p>This is a software to calculate population growth.</p>
