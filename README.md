@@ -2,7 +2,7 @@
 <section id="readme.md">
 <center>
   <br />
- <a href="#readme.md"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
+ <a href="https://github.com/Wahyunaa/population-growth-counter"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
  </center>
  </section>
  <section id="About">
