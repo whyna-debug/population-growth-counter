@@ -5,5 +5,4 @@ Software for calculating population growth.
  <img src="assets/img/logo.jpg" alt="logo" width="340"/> <br />
  <br />
  </center>
- <section id="About">
 ## Population growth counter
