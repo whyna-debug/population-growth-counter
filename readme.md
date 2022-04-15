@@ -22,5 +22,4 @@
 <section id="open-source">
 ###Open source
 <p>you can use this software for anything, <br />and you can also develop this software according to what you want.</p>
-</section># population-growth-counter
-# population-growth-counter
+</section>
