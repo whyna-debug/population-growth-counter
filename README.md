@@ -1,5 +1,5 @@
 ## Population growth counter
-<section id="#readme.md">
+<section id="readme.md">
 <center>
   <br />
  <a href="#readme.md"><img src="assets/img/logo.jpg" alt="logo" width="450"/></a>
