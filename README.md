@@ -1,7 +1,7 @@
 ## Population growth counter
 <center>
   <br />
- <img src="assets/img/logo.jpg" alt="logo" width="390"/> <br />
+ <img src="assets/img/logo.jpg" alt="logo" width="450"/> <br />
  </center>
  <section id="About">
 <h3>About</h3>
