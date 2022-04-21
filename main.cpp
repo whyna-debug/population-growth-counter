@@ -98,7 +98,7 @@ for(int line = 1; line <= maxLine; line++ ){
     cout << "\nPlease choose correctly!\n\n";
   sleep(1);
     system("cls");
-  }
+  } 
     }
   cin.get();
   return 0;
