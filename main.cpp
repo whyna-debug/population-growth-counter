@@ -13,8 +13,7 @@
 using namespace std;
 int main(){system("cls");
 	unsigned int maxLine = 35;
-	string middle = " ";
-	string language, menu;
+	string middle = " ", language, menu;
 	for(int LanguageMenu = 1; LanguageMenu <2;){
   for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
