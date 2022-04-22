@@ -1,7 +1,7 @@
 // indonesia language 
 //
-// You can use this file for anything' 
-// and you can also develop this software according to what you want.
+// This software is free to use,
+// and you can also develop this software as you wish.
 //
 // Give me a star on https://github.com/Wahyunaa/population-growth-counter
 //
@@ -25,7 +25,7 @@ for(int line = 1; line <= maxLine; line++ ){
     cout << "Menu:\n\n [1] Total\n [2] Alami"<< endl;
   cout << "\nPilih menu: ";
   cin >> menu;
-  if(menu == 1){system("cls");
+  if(menu == "1"){system("cls");
   ifTrue = 2;
 for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
@@ -40,7 +40,7 @@ for(int line = 1; line <= maxLine; line++ ){
   }
   cout << endl << endl;
   long lm, ie, l, m, i, e, pt; cout << "Penghitung pertumbuhan penduduk total\n\n Kelahiran: "; cin >> l;  cout << " Kematian: ";  cin >> m;  cout << " Imigrasi: ";  cin >> i;  cout << " Emigrasi: ";  cin >> e;  lm = l - m;  ie = i - e;  pt = lm + ie;  cout << endl << "Tingkat pertumbuhan penduduk total: " << pt << endl;
-  } else if(menu == 2){system("cls");
+  } else if(menu == "2"){system("cls");
   ifTrue = 2;
 for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
