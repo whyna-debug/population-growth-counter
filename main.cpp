@@ -12,9 +12,9 @@
 #include <conio.h>
 using namespace std;
 int main(){system("cls");
-	unsigned int maxLine = 35, language;
+	unsigned int maxLine = 35;
 	string middle = " ";
-	short menu;
+	string language, menu;
 	for(int LanguageMenu = 1; LanguageMenu <2;){
   for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
@@ -32,7 +32,7 @@ int main(){system("cls");
   cout << "Language: \n\n [1] English \n [2] indonesia\n\n";
   cout << "select a language: ";
   cin >> language;
-  if(language == 1){
+  if(language == "1"){
     for (short ifTrue = 1; ifTrue < 2;){
     system("cls");
 for(int line = 1; line <= maxLine; line++ ){
@@ -52,7 +52,7 @@ for(int line = 1; line <= maxLine; line++ ){
     cout << "Menu:\n\n [1] Total\n [2] Natural"<< endl;
   cout << "\nSelect menu: ";
   cin >> menu;
-  if(menu == 1){system("cls");
+  if(menu == "1"){system("cls");
   ifTrue = 2;
 for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
@@ -67,7 +67,7 @@ for(int line = 1; line <= maxLine; line++ ){
   }
   cout << endl << endl;
   long lm, ie, l, m, i, e, pt; cout << "Total population growth counter\n\n Birth: "; cin >> l;  cout << " Dead: ";  cin >> m;  cout << " Immigration: ";  cin >> i;  cout << " Emigration: ";  cin >> e;  lm = l - m;  ie = i - e;  pt = lm + ie;  cout << endl << "Total population growth rate: " << pt << endl;
-  } else if(menu == 2){system("cls");
+  } else if(menu == "2"){system("cls");
   ifTrue = 2;
 for(int line = 1; line <= maxLine; line++ ){
   	cout << "_";
@@ -90,7 +90,7 @@ for(int line = 1; line <= maxLine; line++ ){
      system("cls");
   }
     }
-  } else if (language == 2){
+  } else if (language == "2"){
    // indonesia language
    LanguageMenu = 2;
    #include "language/id.cpp"
@@ -98,7 +98,7 @@ for(int line = 1; line <= maxLine; line++ ){
     cout << "\nPlease choose correctly!\n\n";
   sleep(1);
     system("cls");
-  } 
+  }
     }
   cin.get();
   return 0;
